@@ -4,7 +4,7 @@
 		"password": "",
 		"2FASecret": "",
 		"i_user": "",
-		"proxy": null,
+		"proxy": ,
 		"userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.86 Mobile Safari/537.36",
 		"intervalGetNewCookie": 1440,
 		"notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
@@ -12,8 +12,8 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "VIXA",
-	"prefix": "!",
+	"nickNameBot": "NIL",
+	"prefix": "/",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
@@ -21,8 +21,8 @@
 "ownerOnly": {
   "enable": false
 },
-"ownerBot" :["100034630383353"],
-	"adminBot": ["100034630383353"],
+"ownerBot" :["61578916164263"],
+	"adminBot": ["100087792611213"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": ["100034630383353", "", "", ""],
